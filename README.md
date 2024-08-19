@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Meyda Nurisal</h1>
 <h3 align="center">Software Engineering student from SMK Telkom Malang</h3>
 <img align= "right" alt="coding" width="250" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align= "right" alt= "cat" width="197" src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-367.gif">
 - 🌱 I’m currently learning **Design Graphic**
 
 <h3 align="left">Connect with me:</h3>
